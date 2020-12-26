@@ -33,6 +33,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Quantitative Economics with Python](https://python.quantecon.org/)**
 - **[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)**
 - **[Web scraping with BeautifulSoup and Requests](https://youtu.be/ng2o98k983k)**
+- **[16 Data Science project ideas to strengthen your portfolio](https://data-flair.training/blogs/data-science-project-ideas/)**
 
 ## :chart_with_upwards_trend: Ekonometria
 - **[Quantitative Economics with Julia](https://julia.quantecon.org/)**
