@@ -13,6 +13,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Ten random useful things in R that you might not know about](https://towardsdatascience.com/ten-random-useful-things-in-r-that-you-might-not-know-about-54b2044a3868?fbclid=IwAR1r4kLfRX-OMNt59TfUSvJ-RZF57TB9Ohl1plEe6ruDJkRuyYBdoc6xROY)**
 - **[Step-by-Step Guide to Creating R and Python Libraries (in JupyterLab)](https://towardsdatascience.com/step-by-step-guide-to-creating-r-and-python-libraries-e81bbea87911?fbclid=IwAR0Jn1CDrEGzBMqX2YOVL9Ec6muXQGXmwuBRLypU_-GDHCuH3sdbw5HIY5s)**
 - **[Statystyka w R](https://statslectures.com/r-stats-videos-tutorials)**
+- **[R for Data Science - H. Wickham, G. Grolemund](https://r4ds.had.co.nz/index.html)**
 
 ## :snake: Python language
 - Czekam na Pull Requesty
