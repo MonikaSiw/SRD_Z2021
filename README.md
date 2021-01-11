@@ -96,8 +96,9 @@ Każdy mail powinien mieć 2 załączniki:
 
 #### Zaliczenie ćwiczeń (50 punktów)
 * Pisemne kolokwium na ostatnich ćwiczeniach
-* Każdy z Państwa otrzyma spersonalizowany zestaw zadań w pliku `.R`. Zadania będą obejmować przykłady praktyczne wymagające wykorzystanie kodu omawianego na ćwiczeniach oraz zadania teoretyczne sprawdzające znajomość zagadnień i koncepcji poruszonych w trakcie semestru. Jest wymagana tylko znajomość kodu R, zagadnienia omawiane przy materiałach w Pythonie mogą pojawić się w części teoretycznej.
-* Wypełniony plik z odpowiedziami należy wysłać na _lukasz.krainski123@gmail.com_ lub _lkrain@sgh.waw.pl_ do końca zajęć
+* Każdy z Państwa otrzyma poprzez progam MS Teams spersonalizowany zestaw zadań w pliku `.R`. Zadania będą obejmować przykłady praktyczne wymagające wykorzystanie kodu omawianego na ćwiczeniach oraz zadania teoretyczne sprawdzające znajomość zagadnień i koncepcji poruszonych w trakcie semestru. Jest wymagana tylko znajomość kodu R, zagadnienia omawiane przy materiałach w Pythonie mogą pojawić się w części teoretycznej.
+* Pliki z zadaniami zostaną udostępnione o godzinie 19:00 (Grupa 3 i 4)/godzinie 17:10 (Grupa 2)
+* Wypełniony plik z odpowiedziami należy wysłać na _lukasz.krainski123@gmail.com_ lub _lkrain@sgh.waw.pl_ do godziny 21:00 (Grupa 3 i 4)/godziny 19:10 (Grupa 2)
 
 ---
 
