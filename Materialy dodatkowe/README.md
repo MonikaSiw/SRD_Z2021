@@ -89,3 +89,4 @@ Zachęcam do dodawania materiałów do listy (2p).
 ## :book: Darmowe książki programistyczne
 - **[Free Programming Books – GoalKicker.com](https://goalkicker.com/)**
 - **[Green Tea Press – Free books by Allen B. Downey](https://greenteapress.com/wp/)**
+- **[Machine Learning for Dummies by IBM](https://www.ibm.com/downloads/cas/GB8ZMQZ3)**
