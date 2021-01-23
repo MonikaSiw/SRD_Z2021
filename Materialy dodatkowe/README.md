@@ -14,6 +14,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Step-by-Step Guide to Creating R and Python Libraries (in JupyterLab)](https://towardsdatascience.com/step-by-step-guide-to-creating-r-and-python-libraries-e81bbea87911?fbclid=IwAR0Jn1CDrEGzBMqX2YOVL9Ec6muXQGXmwuBRLypU_-GDHCuH3sdbw5HIY5s)**
 - **[Statystyka w R](https://statslectures.com/r-stats-videos-tutorials)**
 - **[R for Data Science - H. Wickham, G. Grolemund](https://r4ds.had.co.nz/index.html)**
+- **[Learn R programming for Data Science](http://makemeanalyst.com/r-programming/)**
 
 ## :snake: Python language
 - Czekam na Pull Requesty
@@ -90,3 +91,4 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Free Programming Books – GoalKicker.com](https://goalkicker.com/)**
 - **[Green Tea Press – Free books by Allen B. Downey](https://greenteapress.com/wp/)**
 - **[Machine Learning for Dummies by IBM](https://www.ibm.com/downloads/cas/GB8ZMQZ3)**
+- **[Free Learning IT eBooks](https://www.packtpub.com/free-learning)**
